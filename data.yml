@@ -1,0 +1,11 @@
+path: dataset
+train: dataset/car_accident_severity/custom_dataset/images/train
+val: dataset/car_accident_severity/custom_dataset/images/val
+
+names: {
+  0: No Accident,
+  1: Minor, 
+  2: Moderate, 
+  3: Severe, 
+  4: Totaled
+}
