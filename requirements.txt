@@ -52,3 +52,5 @@ truststore==0.10.5
 typing_extensions==4.16.0
 tzdata==2026.6
 wcwidth==0.9.4
+scikit-learn==1.8.0
+seaborn==0.13.2

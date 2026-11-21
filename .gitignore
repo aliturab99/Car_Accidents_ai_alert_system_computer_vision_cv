@@ -223,4 +223,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 
-dataset/
+data/
+alerts/
+testing_footages/
